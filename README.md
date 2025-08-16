@@ -31,5 +31,5 @@ The dashboard focuses on **6 key areas**:
 - Gaining experience with **healthcare data analytics**  
 
 ---
-🔗 Connect with me on [LinkedIn]((https://www.linkedin.com/in/ganesh-kondamwar-30309222b/))  
+🔗 Connect with me on [LinkedIn][((https://www.linkedin.com/in/ganesh-kondamwar-30309222b/))]  
 
