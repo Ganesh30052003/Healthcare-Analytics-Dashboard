@@ -23,7 +23,7 @@ The dashboard focuses on **6 key areas**:
 - `Screenshots/` → Dashboard preview images  
 
 ## 📊 Sample Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_preview.png)
+![Dashboard Screenshot](Dashboard_preview.pdf)
 
 ## 🌟 Key Learnings
 - Translating **raw hospital data** into actionable business insights  
